@@ -11,7 +11,7 @@
         @foreach ($v->options as $k => $v)
             @foreach($v as $i => $val)
             <div>
-                <input type="checkbox" value="{{$i}}">{{$val}}</li>
+                <input type="checkbox" data-id="{{$i}}" value="{{$i}}">{{$val}}</li>
             </div>
             @endforeach 
             <button class="btn btn-primary">Ответить</button>   
