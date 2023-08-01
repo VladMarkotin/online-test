@@ -1,0 +1,14 @@
+Plan:
+1)install with auth
+2)migrate
+
+migrations for:
+users
+subjects (tests)
+users_subjects
+questions
+
+controller
+TestController
+
+Models
