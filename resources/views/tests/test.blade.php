@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section ('content')
-    <script src="{{ asset('js/sendAnswer.js') }}"></script>
+    
   @foreach ($tasks as $v)
   <div class="card" style="width: 18rem;">
     <div class="card-body">

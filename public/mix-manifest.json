@@ -1,3 +1,5 @@
 {
-    "/js/sendAnswer.js": "/js/sendAnswer.js"
+    "/js/app.js": "/js/app.js",
+    "/js/sendAnswer.js": "/js/sendAnswer.js",
+    "/css/app.css": "/css/app.css"
 }
